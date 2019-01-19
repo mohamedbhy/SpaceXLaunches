@@ -1,0 +1,13 @@
+export const INIT = 'INIT';
+export const SAVE_EVENT = 'SAVE_EVENT';
+export const UNSAVE_EVENT = 'UNSAVE_EVENT';
+export const REFRESH = 'REFRESH';
+export const REFRESH_SUCCESS = 'REFRESH_SUCCESS';
+export const REFRESH_ERROR = 'REFRESH_ERROR';
+export const INIT_SUCCESS = 'INIT_SUCCESS';
+export const INIT_ERROR = 'INIT_ERROR';
+export const SEARCH = 'SEARCH';
+export const EMPTY_SEARCH = 'EMPTY_SEARCH';
+export const API_ALL = 'https://api.spacexdata.com/v3/launches';
+export const API_UPCOMING = 'https://api.spacexdata.com/v3/launches/upcoming';
+export const API_PAST = 'https://api.spacexdata.com/v3/launches/past';

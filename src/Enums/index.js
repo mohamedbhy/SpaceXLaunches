@@ -1,0 +1,1 @@
+export const Events = Object.freeze({'Upcoming':0,'Past':1,'All':2,'Saved':3,'Search':4});
