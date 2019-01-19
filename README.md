@@ -1,9 +1,9 @@
-#Space X Launches
+# Space X Launches
 <img src="https://i.ibb.co/vJbLqF6/Untitled-1.jpg" alt="Logo" border="0" width="200"></img>\
 **React native App for Exploring SpaceX Launches and Saving them**
-###Api Used
+### Api Used
 [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
-###Used Dependencies
+### Used Dependencies
 - [Axios](https://github.com/axios/axios)
 - [NativeBase](https://github.com/GeekyAnts/NativeBase)
 - [prop-types](https://github.com/facebook/prop-types)
@@ -17,16 +17,16 @@
 - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
 - [react-native-languages](https://github.com/react-native-community/react-native-languages)
 - [react-native-animated-linear-gradient](https://github.com/heineiuo/react-native-animated-linear-gradient)
-###Developed Native Modules During Project
+### Developed Native Modules During Project
 - **ImageToGradient**
 
 
-####IOS Used Dependencies
+#### IOS Used Dependencies
 - [RGBAImage](https://github.com/skyfe79/SwiftImageProcessing/blob/master/08_Blending.playground/Sources/RGBAImage.swift)
-###Android Used Dependencies
+### Android Used Dependencies
 none
-###ScreenShots
-####IOS
+### ScreenShots
+#### IOS
 ![ScreenShot iOS](https://i.ibb.co/w78FN3g/Simulator-Screen-Shot-i-Phone-X-2019-01-19-at-12-38-17.png)
-####Android
+#### Android
 ![ScreenShot Android](https://i.ibb.co/Lg4QTnj/Screenshot-20190119-105939-RNnasaspaceapps2018.jpg)
