@@ -27,6 +27,6 @@
 none
 ### ScreenShots
 #### IOS
-![ScreenShot iOS](https://i.ibb.co/w78FN3g/Simulator-Screen-Shot-i-Phone-X-2019-01-19-at-12-38-17.png)
+<img src="https://i.ibb.co/w78FN3g/Simulator-Screen-Shot-i-Phone-X-2019-01-19-at-12-38-17.png" alt="ScreenShot iOS" border="0" width="300"></img>
 #### Android
-![ScreenShot Android](https://i.ibb.co/Lg4QTnj/Screenshot-20190119-105939-RNnasaspaceapps2018.jpg)
+<img src="https://i.ibb.co/Lg4QTnj/Screenshot-20190119-105939-RNnasaspaceapps2018.jpg" alt="ScreenShot Android" border="0" width="300"></img>
