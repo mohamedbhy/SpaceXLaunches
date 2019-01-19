@@ -1,7 +1,7 @@
 # Space X Launches
 <img src="https://i.ibb.co/vJbLqF6/Untitled-1.jpg" alt="Logo" border="0" width="200"></img>\
 **React native App for Exploring SpaceX Launches and Saving them**
-### Api Used
+### Used Api
 [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
 ### Used Dependencies
 - [Axios](https://github.com/axios/axios)
